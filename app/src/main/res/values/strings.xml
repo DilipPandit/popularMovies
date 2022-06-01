@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="no_connection">Please connect to Internet connection</string>
+    <string name="moviedb">MoviesDB</string>
+    <string name="sucess">Success</string>
+    <string name="exception">Exception</string>
+</resources>
